@@ -1,13 +1,17 @@
 ## 👋 About Me
 
-I’m a Computer Science student who loves building things with code.  
-Exploring DSA, Web Development, and problem-solving one bug at a time.
+Hi, I’m Shaurya 👋  
+I write code, break things (accidentally), fix them (eventually), and learn a lot in between.  
+CS student exploring DSA, Web Dev, and the art of writing code that actually works.  
+Still learning. Still curious. Still shipping.
+
 
 ## 🌐 Socials
 
-• [LinkedIn](https://www.linkedin.com/in/shaurya-pratap-singh-5a2153314) • 
-[GitHub](https://github.com/theShaurya21) • 
-[Email](mailto:callmecaptain.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+
 
 ## 💻 Tech Stack
 
@@ -24,6 +28,7 @@ Exploring DSA, Web Development, and problem-solving one bug at a time.
 ![Stats](https://github-readme-stats.vercel.app/api?username=theShaurya21&show_icons=true&theme=dark)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=theShaurya21&theme=dark)
+
 
 ## 🏆 GitHub Trophies
 
