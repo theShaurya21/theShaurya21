@@ -78,63 +78,71 @@ public class Shaurya {
 
 ---
 
-## `03` / FEATURED PROJECTS
+
+<h2 align="center">🚀 Featured Projects</h2>
+<p align="center">
+  Projects I've built and technologies I'm exploring.
+</p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚌 SmartTransit
+<h3>🚌 SmartTransit</h3>
 
-College transport safety and management platform.
+College transport safety and management platform featuring bus and route management, live tracking interface, and incident reporting.
 
-- Bus and route management
-- Live tracking interface
-- Incident reporting
+**Tech Stack**
 
-**Stack:** React · Node.js · Express · MongoDB
+`React` `Node.js` `Express` `MongoDB`
 
-<a href="https://github.com/theShaurya21/SmartTransit">↗ Explore Repository</a>
+<a href="https://github.com/theShaurya21/SmartTransit">
+  <strong>View Project →</strong>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI Resume Analyzer
+<h3>🌐 Personal Portfolio</h3>
 
-An AI-focused resume analysis project.
+A personal developer portfolio showcasing my background, skills, projects, and professional profile.
 
-- Resume information extraction
-- Skills analysis
-- Job-relevance insights
+**Tech Stack**
 
-**Stack:** Add your actual implementation stack.
+`Next.js` `React` `JavaScript`
 
-<a href="https://github.com/theShaurya21?tab=repositories">↗ Explore Projects</a>
+<a href="https://github.com/theShaurya21?tab=repositories">
+  <strong>View Repositories →</strong>
+</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
+<h3>☕ Library Management System</h3>
 
+My upcoming Spring Boot mini-project, focused on book management and database operations.
 
-### ☕ Spring Boot Project
+**Planned Stack**
 
-A dedicated Java backend project.
+`Java` `Spring Boot` `MySQL`
 
-- REST API development
-- MySQL integration
-- CRUD operations
+**Status:** In progress
 
-**Stack:** Java · Spring Boot · MySQL
+</td>
+<td width="50%" valign="top">
 
-<a href="https://github.com/theShaurya21?tab=repositories">↗ View Repositories</a>
+<h3>🎯 Current Focus</h3>
+
+- Learning Java and Spring Boot
+- Practising Data Structures and Algorithms
+- Exploring AI/ML and Data Science
+- Building practical software projects
 
 </td>
 </tr>
 </table>
-
----
 
 
 <h2 align="center">📊 GitHub Overview</h2>
