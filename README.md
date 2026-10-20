@@ -136,27 +136,19 @@ A dedicated Java backend project.
 
 ---
 
-<h2 align="center">04 / GITHUB ANALYTICS</h2>
+
+<h2 align="center">📊 GitHub Overview</h2>
+<p align="center">A snapshot of my development journey.</p>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=theShaurya21&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9" alt="GitHub statistics"/>
+  &nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theShaurya21&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most used languages"/>
+</div>
+
 <p align="center">
-  <i>My coding activity, consistency, and favourite technologies.</i>
+  <i>Consistency over perfection. Building something better every day.</i>
 </p>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=theShaurya21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theShaurya21&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=theShaurya21&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Contribution Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=theShaurya21&bg_color=0D1117&color=58A6FF&line=8957E5&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph" />
-</div>
 
 
 
