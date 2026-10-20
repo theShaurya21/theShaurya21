@@ -136,25 +136,30 @@ A dedicated Java backend project.
 
 ---
 
-## `04` / GITHUB ANALYTICS
+<h2 align="center">04 / GITHUB ANALYTICS</h2>
+<p align="center">
+  <i>My coding activity, consistency, and favourite technologies.</i>
+</p>
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=theShaurya21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=A78BFA&text_color=CBD5E1" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theShaurya21&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" />
-
-<br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=theShaurya21&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=theShaurya21&bg_color=020617&color=38BDF8&line=6366F1&point=FFFFFF&area=true&hide_border=true" />
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=theShaurya21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theShaurya21&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
----
+<br/>
+
+<div align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=theShaurya21&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Contribution Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=theShaurya21&bg_color=0D1117&color=58A6FF&line=8957E5&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph" />
+</div>
+
+
+
 
 ## `05` / CURRENT MISSION
 
