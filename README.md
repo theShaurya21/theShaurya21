@@ -1,11 +1,12 @@
+
 <div align="center">
   <img
-    src="assets/github-banner.png"
+    src="./github-banner.png"
     width="100%"
     alt="Shaurya's AI and developer banner"
   />
 </div>
-<div align="center">
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0F52BA,75:6D28D9,100:020617&height=220&section=header&text=SHAURYA%20PRATAP%20SINGH&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20DATA%20SCIENCE&descSize=14&descAlignY=57" width="100%"/>
 
