@@ -1,179 +1,103 @@
-# 👋 Hey, I'm Shaurya Pratap Singh
-
-### AI/ML Enthusiast | Software Developer | Data Science Explorer
-
-🎓 B.Tech CSE (AI & ML) — GLA University, Mathura  
-💡 Passionate about building practical software, exploring intelligent systems, and solving real-world problems through technology.
+# SHAURYA PRATAP SINGH
 
 <p align="center">
-  <a href="https://github.com/theShaurya21">
-    <img src="https://img.shields.io/badge/GitHub-theShaurya21-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/shaurya-pratap-singh-5a2153314">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Building%20%26%20Learning-gold?style=for-the-badge" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=590907&height=3" width="100%" />
+</p>
+
+<h3 align="center">Computer Science Student · Developer · Problem Solver</h3>
+
+<p align="center">
+  Building things, solving problems, and getting better with every commit.
+</p>
+
+<p align="center">
+  <a href="https://github.com/theShaurya21">GitHub</a> ·
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
+  <a href="mailto:YOUR_EMAIL">Email</a>
 </p>
 
 ---
 
-## 🚀 About Me
+### 01 / ABOUT
 
-I'm a Computer Science student interested in software development, Artificial Intelligence, Machine Learning and Data Science.
+I'm Shaurya, a Computer Science undergraduate at GLA University, Mathura.
 
-I enjoy turning ideas into functional applications, understanding how systems work behind the scenes, and continuously improving my problem-solving skills.
+I'm interested in software engineering, backend development, problem-solving, and building practical applications.
 
-- 🔭 Building full-stack and database-driven applications.
-- 🧠 Practising Data Structures and Algorithms.
-- 🤖 Exploring Artificial Intelligence and Machine Learning.
-- ☕ Learning Java, Spring Boot and backend development.
-- 🎯 Focused on building meaningful projects and becoming a better developer.
+Currently focused on:
+- Strengthening Data Structures & Algorithms.
+- Developing strong Java and backend fundamentals.
+- Exploring databases and system design.
+- Building projects that solve real-world problems.
 
----
+> Learning by building. Improving by shipping.
 
-## 🎬 Featured Projects
+### 02 / TECH STACK
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Languages**
 
-<h3>🚌 SmartTransit</h3>
+Java · Python · SQL · JavaScript · TypeScript
 
-<strong>College Transport Safety & Management System</strong>
+**Tools & Technologies**
 
-A transport management platform designed to make college transportation safer, smarter and easier to manage.
+Git · GitHub · MongoDB · MySQL · Next.js · Tailwind CSS
 
-**Key Features**
-- Bus and route management.
-- Live bus tracking interface and map markers.
-- Student, driver and admin workflows.
-- Incident reporting and management.
-- Transport monitoring dashboard.
+*Technologies are listed as areas of experience or learning; update this list as your skills evolve.*
 
-**Tech Stack**
+### 03 / SELECTED BUILDS
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,leaflet" />
+**01 — SmartTransit**
 
-<br/>
+A software project focused on smart transportation and transit management.
 
-<a href="https://github.com/theShaurya21/SmartTransit">🔗 View Repository</a>
+[Explore Project](YOUR_SMARTTRANSIT_REPOSITORY_URL)
 
-</td>
-<td width="50%" valign="top">
+**02 — Bibliotheca**
 
-<h3>📚 Bibliotheca</h3>
+A library management system designed to make library operations more organized and accessible.
 
-<strong>The Reading Room — Library Management System</strong>
+[Explore Project](https://github.com/theShaurya21/Bibliotheca)
 
-A modern library management application built to simplify book inventory, member management and library circulation.
+**03 — Rewynd**
 
-**Key Features**
-- Book catalogue and inventory management.
-- Member management.
-- Book issue, return and renewal workflows.
-- Fine calculation and reservation management.
-- Dashboard, analytics and book cover integration.
+An AI-powered personal memory and timeline concept designed to help capture, organize, and revisit life experiences.
 
-**Tech Stack**
+[Explore Project](https://github.com/theShaurya21/rewynd)
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js" />
+### 04 / CURRENTLY EXPLORING
 
-<br/>
+- Advanced DSA and problem-solving
+- Java and object-oriented programming
+- Backend development and Spring Boot
+- SQL, DBMS and database design
+- System design fundamentals
+- Open-source development and collaboration
 
-<a href="https://github.com/theShaurya21/Bibliotheca">🔗 View Repository</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🎨 Personal Portfolio</h3>
-
-<strong>My Developer Portfolio</strong>
-
-A personal space to showcase my background, technical skills, projects and development journey.
-
-**Tech Stack**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,js,css" />
-
-<br/>
-
-<a href="https://github.com/theShaurya21?tab=repositories">🔗 Explore My Repositories</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🎯 Current Focus</h3>
-
-- Mastering Java and Spring Boot.
-- Solving DSA problems.
-- Exploring Machine Learning and Data Science.
-- Building full-stack applications.
-- Improving software architecture and database skills.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
-</p>
-
-### Frameworks & Libraries
-<p>
-<img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,express" />
-</p>
-
-### Databases & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman" />
-</p>
-
-### Exploring
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-Exploring-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Data%20Science-Learning-purple?style=flat-square" />
-<img src="https://img.shields.io/badge/TensorFlow-Exploring-orange?style=flat-square" />
-</p>
-
----
-
-## 📊 GitHub Overview
+### 05 / GITHUB ACTIVITY
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=theShaurya21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theShaurya21&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theShaurya21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A5A79B&icon_color=E8D2B5&text_color=E8D2B5" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=theShaurya21&hide_border=true&background=0D1117&ring=A5A79B&fire=590907&currStreakLabel=E8D2B5&sideLabels=A5A79B&currStreakNum=E8D2B5&sideNums=E8D2B5&dates=8A8A80" width="48%" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=theShaurya21&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theShaurya21&bg_color=0D1117&color=E8D2B5&line=A5A79B&point=590907&hide_border=true" width="100%" />
 </p>
 
----
+### 06 / CONNECT
 
-## 🐍 My Contribution Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/theShaurya21/theShaurya21/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, learning new technologies, collaborating on projects and exploring opportunities.
+Interested in software development, meaningful collaborations, and learning from other developers.
 
 <p align="center">
-  <a href="https://github.com/theShaurya21">GitHub</a> •
-  <a href="https://linkedin.com/in/shaurya-pratap-singh-5a2153314">LinkedIn</a>
+  <a href="YOUR_LINKEDIN_URL">LINKEDIN</a> ·
+  <a href="mailto:YOUR_EMAIL">EMAIL</a> ·
+  <a href="https://github.com/theShaurya21">GITHUB</a>
 </p>
 
 <p align="center">
-  <i>"Building today. Learning every day. Creating for tomorrow."</i>
+  <sub>Designed with curiosity. Built with consistency.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=590907&height=3" width="100%" />
 </p>
