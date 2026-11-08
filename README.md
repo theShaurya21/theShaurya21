@@ -1,103 +1,158 @@
+ 
+<div align="center">
+
 # SHAURYA PRATAP SINGH
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=590907&height=3" width="100%" />
-</p>
+### SOFTWARE DEVELOPER · PROBLEM SOLVER · LIFELONG LEARNER
 
-<h3 align="center">Computer Science Student · Developer · Problem Solver</h3>
+*Building things. Solving problems. Getting better every day.*
 
-<p align="center">
-  Building things, solving problems, and getting better with every commit.
-</p>
-
-<p align="center">
-  <a href="https://github.com/theShaurya21">GitHub</a> ·
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
-  <a href="mailto:YOUR_EMAIL">Email</a>
-</p>
+[Portfolio](https://shauryapratap.vercel.app) · [GitHub](https://github.com/theShaurya21)
 
 ---
 
-### 01 / ABOUT
+**DREAM. &nbsp; CODE. &nbsp; BUILD.**
 
-I'm Shaurya, a Computer Science undergraduate at GLA University, Mathura.
+`01 — INTRODUCTION` &nbsp; · &nbsp; `02 — SELECTED WORK` &nbsp; · &nbsp; `03 — TOOLKIT`
 
-I'm interested in software engineering, backend development, problem-solving, and building practical applications.
+</div>
+
+## 01 / THE DEVELOPER
+
+Hello! I'm **Shaurya**, a Computer Science undergraduate at GLA University, Mathura.
+
+I'm interested in software engineering, problem-solving, and building products that solve real-world problems.
 
 Currently focused on:
+
 - Strengthening Data Structures & Algorithms.
-- Developing strong Java and backend fundamentals.
-- Exploring databases and system design.
-- Building projects that solve real-world problems.
+- Developing full-stack applications.
+- Learning backend engineering and system design.
+- Improving my understanding of databases and software architecture.
 
-> Learning by building. Improving by shipping.
+I believe in learning by building, experimenting, and improving consistently.
 
-### 02 / TECH STACK
+---
 
-**Languages**
+## 02 / SELECTED WORK
 
-Java · Python · SQL · JavaScript · TypeScript
+*A few things I've been building.*
 
-**Tools & Technologies**
+### 01. SmartTransit
 
-Git · GitHub · MongoDB · MySQL · Next.js · Tailwind CSS
+**Intelligent transportation management**
 
-*Technologies are listed as areas of experience or learning; update this list as your skills evolve.*
+A software project focused on making transportation smarter and more accessible.
 
-### 03 / SELECTED BUILDS
+`PROJECT` · `SOFTWARE DEVELOPMENT`
 
-**01 — SmartTransit**
+### 02. Bibliotheca
 
-A software project focused on smart transportation and transit management.
+**Smart Library Management System**
 
-[Explore Project](YOUR_SMARTTRANSIT_REPOSITORY_URL)
+A library management application designed to simplify library operations and resource management.
 
-**02 — Bibliotheca**
+[Explore Repository →](https://github.com/theShaurya21/Bibliotheca)
 
-A library management system designed to make library operations more organized and accessible.
+`PROJECT` · `LIBRARY MANAGEMENT`
 
-[Explore Project](https://github.com/theShaurya21/Bibliotheca)
+### 03. Rewynd
 
-**03 — Rewynd**
+**Your Personal Second Brain**
 
-An AI-powered personal memory and timeline concept designed to help capture, organize, and revisit life experiences.
+An AI-powered personal memory concept designed to organize life experiences, notes, and memories into a searchable timeline.
 
-[Explore Project](https://github.com/theShaurya21/rewynd)
+[Explore Repository →](https://github.com/theShaurya21/rewynd)
 
-### 04 / CURRENTLY EXPLORING
+`PROJECT` · `AI` · `PERSONAL KNOWLEDGE MANAGEMENT`
 
-- Advanced DSA and problem-solving
-- Java and object-oriented programming
-- Backend development and Spring Boot
-- SQL, DBMS and database design
-- System design fundamentals
-- Open-source development and collaboration
+### 04. Algos Strike
 
-### 05 / GITHUB ACTIVITY
+**Data Structures & Algorithms**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theShaurya21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A5A79B&icon_color=E8D2B5&text_color=E8D2B5" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=theShaurya21&hide_border=true&background=0D1117&ring=A5A79B&fire=590907&currStreakLabel=E8D2B5&sideLabels=A5A79B&currStreakNum=E8D2B5&sideNums=E8D2B5&dates=8A8A80" width="48%" />
-</p>
+A collection of programming solutions, algorithm implementations, and competitive programming practice.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theShaurya21&bg_color=0D1117&color=E8D2B5&line=A5A79B&point=590907&hide_border=true" width="100%" />
-</p>
+[Explore Repository →](https://github.com/theShaurya21/Algos_Strike)
 
-### 06 / CONNECT
+`JAVA` · `DSA` · `PROBLEM SOLVING`
 
-Interested in software development, meaningful collaborations, and learning from other developers.
+---
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">LINKEDIN</a> ·
-  <a href="mailto:YOUR_EMAIL">EMAIL</a> ·
-  <a href="https://github.com/theShaurya21">GITHUB</a>
-</p>
+## 03 / THE TOOLKIT
 
-<p align="center">
-  <sub>Designed with curiosity. Built with consistency.</sub>
-</p>
+*Technologies I work with and continue to explore.*
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=590907&height=3" width="100%" />
-</p>
+<div align="center">
+
+**LANGUAGES**
+
+![Java](https://img.shields.io/badge/Java-171717?style=flat-square&logo=openjdk&logoColor=E76F00)
+![Python](https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-171717?style=flat-square&logo=mysql&logoColor=4479A1)
+
+**DATABASES & TOOLS**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-171717?style=flat-square&logo=mongodb&logoColor=47A248)
+![Git](https://img.shields.io/badge/Git-171717?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-171717?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+
+</div>
+
+---
+
+## 04 / CURRENTLY LEARNING
+
+| Area | Focus |
+|---|---|
+| DSA | Advanced problem solving |
+| Backend | Java and Spring Boot |
+| Databases | SQL and DBMS |
+| Development | Full-stack engineering |
+| Computer Science | OOP, OS, CN and system design |
+
+---
+
+## 05 / THE ACTIVITY
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theShaurya21&show_icons=true&hide_border=true&bg_color=00000000&title_color=B74735&text_color=777777&icon_color=B74735)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theShaurya21&layout=compact&hide_border=true&bg_color=00000000&title_color=B74735&text_color=777777)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=theShaurya21&hide_border=true&background=00000000&ring=B74735&fire=B74735&currStreakLabel=B74735)
+
+</div>
+
+---
+
+## 06 / BEYOND THE CODE
+
+Outside programming, I enjoy:
+
+- ♟ Chess
+- 🏏 Cricket
+- 🎬 Movies and storytelling
+- 🎵 Music and singing
+
+I enjoy exploring new ideas, learning new technologies, and challenging myself.
+
+---
+
+## 07 / LET'S CONNECT
+
+*Have an interesting idea, collaboration, or opportunity? Let's talk.*
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theShaurya21)
+[![Portfolio](https://img.shields.io/badge/Portfolio-B74735?style=for-the-badge&logo=vercel&logoColor=white)](https://shauryapratap.vercel.app)
+
+---
+
+**A LITTLE PROGRESS EACH DAY ADDS UP TO BIG RESULTS.**
+
+*Designed with intention. Built with curiosity.*
+
+</div>
