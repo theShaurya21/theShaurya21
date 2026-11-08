@@ -1,88 +1,37 @@
+# 👋 Hey, I'm Shaurya Pratap Singh
 
-<div align="center">
-  <img
-    src="./github-banner.png"
-    width="100%"
-    alt="Shaurya's AI and developer banner"
-  />
-</div>
+### AI/ML Enthusiast | Software Developer | Data Science Explorer
 
+🎓 B.Tech CSE (AI & ML) — GLA University, Mathura  
+💡 Passionate about building practical software, exploring intelligent systems, and solving real-world problems through technology.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0F52BA,75:6D28D9,100:020617&height=220&section=header&text=SHAURYA%20PRATAP%20SINGH&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20DATA%20SCIENCE&descSize=14&descAlignY=57" width="100%"/>
-
-<a href="https://github.com/theShaurya21">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Code.+Learn.+Build.+Grow.;Exploring+AI+%26+Machine+Learning;Building+Real-World+Projects;Learning+Java+%26+Spring+Boot" alt="Typing introduction"/>
-</a>
-
-<p>
-  <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20ML)-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Development-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-0891B2?style=for-the-badge"/>
-</p>
-
-<a href="https://github.com/theShaurya21">
-  <img src="https://img.shields.io/badge/GitHub-theShaurya21-111827?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/shaurya-pratap-singh-5a2153314/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</div>
-
----
-
-## `01` / ABOUT ME
-
-```java
-public class Shaurya {
-
-    String degree = "B.Tech CSE (DATA SCIENCE)";
-    String university = "GLA University";
-    String[] interests = {
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Backend Development",
-        "Data Structures & Algorithms"
-    };
-
-    String currentFocus = "Java & Spring Boot";
-
-    String motto = "Learn. Build. Improve. Repeat.";
-}
-```
-
-- Building practical software projects.
-- Exploring AI, ML and data-driven solutions.
-- Improving problem-solving and programming fundamentals.
-- Interested in writing clean, maintainable code.
-
----
-
-## `02` / TECH ARSENAL
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,js,cpp&theme=dark" />
-
-### Frameworks & Database
-
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,mysql,mongodb&theme=dark" />
-
-### Tools & Environment
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-
-</div>
-
----
-
-
-<h2 align="center">🚀 Featured Projects</h2>
 <p align="center">
-  Projects I've built and technologies I'm exploring.
+  <a href="https://github.com/theShaurya21">
+    <img src="https://img.shields.io/badge/GitHub-theShaurya21-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/shaurya-pratap-singh-5a2153314">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Building%20%26%20Learning-gold?style=for-the-badge" />
 </p>
+
+---
+
+## 🚀 About Me
+
+I'm a Computer Science student interested in software development, Artificial Intelligence, Machine Learning and Data Science.
+
+I enjoy turning ideas into functional applications, understanding how systems work behind the scenes, and continuously improving my problem-solving skills.
+
+- 🔭 Building full-stack and database-driven applications.
+- 🧠 Practising Data Structures and Algorithms.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- ☕ Learning Java, Spring Boot and backend development.
+- 🎯 Focused on building meaningful projects and becoming a better developer.
+
+---
+
+## 🎬 Featured Projects
 
 <table>
 <tr>
@@ -90,94 +39,141 @@ public class Shaurya {
 
 <h3>🚌 SmartTransit</h3>
 
-College transport safety and management platform featuring bus and route management, live tracking interface, and incident reporting.
+<strong>College Transport Safety & Management System</strong>
+
+A transport management platform designed to make college transportation safer, smarter and easier to manage.
+
+**Key Features**
+- Bus and route management.
+- Live bus tracking interface and map markers.
+- Student, driver and admin workflows.
+- Incident reporting and management.
+- Transport monitoring dashboard.
 
 **Tech Stack**
 
-`React` `Node.js` `Express` `MongoDB`
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,leaflet" />
 
-<a href="https://github.com/theShaurya21/SmartTransit">
-  <strong>View Project →</strong>
-</a>
+<br/>
+
+<a href="https://github.com/theShaurya21/SmartTransit">🔗 View Repository</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🌐 Personal Portfolio</h3>
+<h3>📚 Bibliotheca</h3>
 
-A personal developer portfolio showcasing my background, skills, projects, and professional profile.
+<strong>The Reading Room — Library Management System</strong>
+
+A modern library management application built to simplify book inventory, member management and library circulation.
+
+**Key Features**
+- Book catalogue and inventory management.
+- Member management.
+- Book issue, return and renewal workflows.
+- Fine calculation and reservation management.
+- Dashboard, analytics and book cover integration.
 
 **Tech Stack**
 
-`Next.js` `React` `JavaScript`
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js" />
 
-<a href="https://github.com/theShaurya21?tab=repositories">
-  <strong>View Repositories →</strong>
-</a>
+<br/>
+
+<a href="https://github.com/theShaurya21/Bibliotheca">🔗 View Repository</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>☕ Library Management System</h3>
+<h3>🎨 Personal Portfolio</h3>
 
-My upcoming Spring Boot mini-project, focused on book management and database operations.
+<strong>My Developer Portfolio</strong>
 
-**Planned Stack**
+A personal space to showcase my background, technical skills, projects and development journey.
 
-`Java` `Spring Boot` `MySQL`
+**Tech Stack**
 
-**Status:** In progress
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,css" />
+
+<br/>
+
+<a href="https://github.com/theShaurya21?tab=repositories">🔗 Explore My Repositories</a>
 
 </td>
 <td width="50%" valign="top">
 
 <h3>🎯 Current Focus</h3>
 
-- Learning Java and Spring Boot
-- Practising Data Structures and Algorithms
-- Exploring AI/ML and Data Science
-- Building practical software projects
+- Mastering Java and Spring Boot.
+- Solving DSA problems.
+- Exploring Machine Learning and Data Science.
+- Building full-stack applications.
+- Improving software architecture and database skills.
 
 </td>
 </tr>
 </table>
 
+---
 
-<h2 align="center">📊 GitHub Overview</h2>
-<p align="center">A snapshot of my development journey.</p>
+## 🛠️ Tech Stack & Tools
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=theShaurya21&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9" alt="GitHub statistics"/>
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theShaurya21&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most used languages"/>
-</div>
-
-<p align="center">
-  <i>Consistency over perfection. Building something better every day.</i>
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
 </p>
 
+### Frameworks & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,express" />
+</p>
 
+### Databases & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman" />
+</p>
 
-
-## `05` / CURRENT MISSION
-
-- [x] Build and submit SmartTransit.
-- [ ] Develop a separate Spring Boot + MySQL project.
-- [ ] Strengthen Java and DSA fundamentals.
-- [ ] Build more AI/ML projects.
-- [ ] Keep improving my GitHub portfolio.
+### Exploring
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-Exploring-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20Science-Learning-purple?style=flat-square" />
+<img src="https://img.shields.io/badge/TensorFlow-Exploring-orange?style=flat-square" />
+</p>
 
 ---
 
-<div align="center">
+## 📊 GitHub Overview
 
-### Let's build something meaningful.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=theShaurya21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theShaurya21&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<a href="https://github.com/theShaurya21">GitHub</a> ·
-<a href="https://www.linkedin.com/in/shaurya-pratap-singh-5a2153314/">LinkedIn</a>
+<p align="center">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=theShaurya21&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1D4ED8,100:6D28D9&height=110&section=footer" width="100%"/>
+---
 
-</div>
+## 🐍 My Contribution Journey
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/theShaurya21/theShaurya21/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, learning new technologies, collaborating on projects and exploring opportunities.
+
+<p align="center">
+  <a href="https://github.com/theShaurya21">GitHub</a> •
+  <a href="https://linkedin.com/in/shaurya-pratap-singh-5a2153314">LinkedIn</a>
+</p>
+
+<p align="center">
+  <i>"Building today. Learning every day. Creating for tomorrow."</i>
+</p>
