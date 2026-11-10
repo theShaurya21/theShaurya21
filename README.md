@@ -1,409 +1,161 @@
  <div align="center">
 
-# SHAURYA PRATAP SINGH
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:8B3028&height=180&section=header&text=SHAURYA%20PRATAP%20SINGH&fontSize=32&fontColor=F0F6FC&fontAlignY=40&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20BUILDING%20WITH%20PURPOSE&descSize=11&descAlignY=62" width="100%"/>
 
-### SOFTWARE ENGINEERING · COMPUTER SCIENCE · PRODUCT DEVELOPMENT
-
-**I THINK IN SYSTEMS. I BUILD WITH PURPOSE.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=F85149&center=true&vCenter=true&width=600&lines=Building+practical+software+solutions;Exploring+Backend+%26+Full+Stack+Development;Turning+ideas+into+working+applications;Always+learning.+Always+building." alt="Animated introduction"/>
 
 <br/>
 
-[ PORTFOLIO ](YOUR_PORTFOLIO_URL) &nbsp; / &nbsp; [ GITHUB ](https://github.com/theShaurya21) &nbsp; / &nbsp; [ LINKEDIN ](https://linkedin.com/in/shaurya-pratap-singh-5a2153314)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F3EDE2&height=2" width="100%" />
-
-<sub>FIG. 01 — PERSONAL ENGINEERING PROFILE / 2026</sub>
+[Portfolio](https://shauryapratap.vercel.app) · [GitHub](https://github.com/theShaurya21) · [LinkedIn](https://linkedin.com/in/shaurya-pratap-singh-5a2153314)
 
 </div>
 
-<br/>
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-## THE THINKING
-
-I'm **Shaurya**, a Computer Science undergraduate at GLA University, Mathura.
-
-I enjoy understanding how software systems work, solving engineering problems and transforming ideas into functional applications.
-
-My approach to development revolves around three things:
-
-**01 / UNDERSTAND**
-
-Understand the problem before writing the solution.
-
-**02 / ENGINEER**
-
-Build structured, maintainable and practical software.
-
-**03 / EVOLVE**
-
-Keep learning, experimenting and improving.
-
-</td>
-<td width="35%" valign="top">
-
-## PROFILE DATA
-
-`IDENTITY`
-
-Computer Science Student
-
-`INTEREST`
-
-Software Engineering
-
-`FOCUS`
-
-Backend & Full Stack
-
-`MINDSET`
-
-Learn → Build → Improve
-
-`LOCATION`
-
-Mathura, India
-
-</td>
-</tr>
-</table>
-
 ---
 
-# 01 / ENGINEERED PROJECTS
+### ABOUT
 
-<sub>SELECTED WORK · SOFTWARE SYSTEMS · IMPLEMENTATION</sub>
+I'm **Shaurya Pratap Singh**, a Computer Science undergraduate at **GLA University, Mathura**, interested in building practical software and understanding how systems work behind the scenes.
 
-The best way to understand an engineer is to look at what they build.
+Currently focused on strengthening my foundations in **Data Structures & Algorithms, Java, Backend Development, and Full-Stack Engineering**.
 
-<br/>
+I enjoy turning ideas into working applications, exploring new technologies, and learning by building.
 
-## PROJECT 001 — BIBLIOTHECA
-
-### SMART LIBRARY MANAGEMENT SYSTEM
-
-**A structured approach to managing library operations.**
-
-Bibliotheca is a Spring Boot-based library management application that centralizes book inventory, member records and lending operations into one integrated system.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**01 / INVENTORY**
-
-- Add, update, delete and view books.
-- Manage library inventory.
-- Maintain persistent records.
-
-**02 / MEMBERS**
-
-- Student/member management.
-- Librarian authentication.
-- Organized member records.
-
-</td>
-<td width="50%" valign="top">
-
-**03 / CIRCULATION**
-
-- Book issuing and returns.
-- Loan renewal.
-- Active loan tracking.
-- Automatic overdue fine calculation.
-
-**04 / ANALYTICS**
-
-- Dashboard statistics.
-- Library analytics.
-- Demo data seeding.
-
-</td>
-</tr>
-</table>
-
-**SYSTEM SPECIFICATION**
-
-| Component | Implementation |
+| Focus | Current Direction |
 |:--|:--|
-| Language | Java 23 |
-| Backend | Spring Boot 3.4.4 |
-| Persistence | Spring Data JPA |
-| ORM | Hibernate |
-| Database | MySQL |
-| Build | Maven |
-| Frontend | HTML, CSS, JavaScript |
-| DB Management | MySQL Workbench |
+| 🎓 Education | B.Tech — Computer Science |
+| 💻 Development | Java · Spring Boot · React · Node.js |
+| 🧠 Foundations | DSA · OOP · DBMS · Operating Systems |
+| 🚀 Exploring | System Design · AI/ML |
+| 🎯 Goal | Software Engineering Internships |
 
-**BUSINESS RULES**
+---
 
-- Overdue fine: ₹2 per day.
-- Configurable loan period.
-- Configurable maximum active loans.
+###  WHAT I'VE BUILT
 
-**APPLICATION FLOW**
+#### 01. BIBLIOTHECA
+<sub>SMART LIBRARY MANAGEMENT SYSTEM</sub>
 
-`Frontend` → `Spring Boot` → `Spring Data JPA / Hibernate` → `MySQL`
+A centralized library management application built to simplify book inventory, member records and lending operations.
+
+**Features**
+- Complete book inventory management.
+- Student and member management.
+- Book issue, return and renewal.
+- Automatic overdue fine calculation (₹2/day).
+- Active loan tracking and configurable loan policies.
+- Librarian authentication and dashboard analytics.
+- MySQL-backed persistent records.
+
+**Built with**
+
+`Java 23` `Spring Boot 3.4.4` `Spring Data JPA` `Hibernate` `Maven` `MySQL` `HTML` `CSS` `JavaScript`
+
+**Architecture:** Spring Boot → JPA / Hibernate → MySQL
+
+[![Repository](https://img.shields.io/badge/VIEW_PROJECT-E56B45?style=flat-square&logo=github&logoColor=white)](https://github.com/theShaurya21/Bibliotheca)
+
+---
+
+#### 02. SMARTTRANSIT
+<sub>SMART COLLEGE TRANSPORT SAFETY & MANAGEMENT SYSTEM</sub>
+
+A full-stack college transportation platform connecting students, drivers and administrators through a centralized management system.
+
+**Features**
+- Role-based dashboards for students, drivers and admins.
+- Registration, authentication and approval workflows.
+- Bus, route and driver trip management.
+- Interactive bus tracking and ETA display.
+- Incident reporting and emergency management.
+- Socket.IO communication and location updates.
+- Administrative monitoring and transport analytics.
+
+**Built with**
+
+`React.js` `Vite` `Node.js` `Express.js` `MongoDB` `Mongoose` `Axios` `Socket.IO` `Leaflet` `React Router`
+
+**Architecture:** React → REST API / Socket.IO → Express → MongoDB
+
+*Tracking demonstration currently uses simulated bus movement, not deployed real-world GPS tracking.*
+
+[![Repository](https://img.shields.io/badge/VIEW_PROJECT-E56B45?style=flat-square&logo=github&logoColor=white)](https://github.com/theShaurya21/SmartTransit)
+
+---
+
+### MY TECH STACK
+
+**LANGUAGES**
+
+![Java](https://img.shields.io/badge/Java-21262D?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-21262D?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=3776AB)
+
+**FRONTEND & BACKEND**
+
+![React](https://img.shields.io/badge/React-21262D?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-21262D?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS3-21262D?style=flat-square&logo=css3&logoColor=1572B6)
+![Node](https://img.shields.io/badge/Node.js-21262D?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-21262D?style=flat-square&logo=express&logoColor=FFFFFF)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-21262D?style=flat-square&logo=springboot&logoColor=6DB33F)
+
+**DATABASES & TOOLS**
+
+![MySQL](https://img.shields.io/badge/MySQL-21262D?style=flat-square&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-21262D?style=flat-square&logo=mongodb&logoColor=47A248)
+![Git](https://img.shields.io/badge/Git-21262D?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=FFFFFF)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-21262D?style=flat-square&logo=intellijidea&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-21262D?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-21262D?style=flat-square&logo=postman&logoColor=FF6C37)
+
+**CORE KNOWLEDGE**
+
+`DSA` · `OOP` · `DBMS` · `Operating Systems`
+
+**EXPLORING**
+
+`Artificial Intelligence` · `Machine Learning` · `Data Science`
+
+---
+
+### WHAT'S NEXT?
+
+My current goals:
+
+- Strengthen problem-solving and advanced DSA.
+- Deepen Java and Spring Boot knowledge.
+- Build better full-stack and backend applications.
+- Learn system design and scalable architecture.
+- Explore AI and Machine Learning.
+- Prepare for software engineering internships and professional opportunities.
+
+---
+
+### OUTSIDE DEVELOPMENT
+
+♟ Chess &nbsp; · &nbsp; 🏏 Cricket &nbsp; · &nbsp; 🎬 Movies &nbsp; · &nbsp; 🎵 Music
+
+---
 
 <div align="center">
 
-[ EXPLORE SOURCE CODE ↗ ](https://github.com/theShaurya21/Bibliotheca)
+### LET'S CONNECT.
 
-</div>
+Have an interesting idea or opportunity? Let's talk.
 
----
+[![Email](https://img.shields.io/badge/EMAIL-E56B45?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaurya.pratap1323@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-24292F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaurya-pratap-singh-5a2153314)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-24292F?style=for-the-badge&logo=vercel&logoColor=white)](https://shauryapratap.vercel.app)
 
-## PROJECT 002 — SMARTTRANSIT
+**Email:** shaurya.pratap1323@gmail.com
 
-### SMART COLLEGE TRANSPORT SAFETY & MANAGEMENT SYSTEM
-
-**Making campus transportation more organized, visible and manageable.**
-
-SmartTransit is a full-stack transportation management application designed around three key stakeholders: students, drivers and administrators.
-
-It brings transportation operations into a centralized platform with route management, trip updates, interactive maps and incident reporting.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**01 / ACCESS & CONTROL**
-
-- Student, driver and admin dashboards.
-- User registration and authentication.
-- Driver and administrator approval.
-
-**02 / TRANSPORT OPERATIONS**
-
-- Bus management.
-- Route management.
-- Driver trip management.
-- Location updates.
-
-</td>
-<td width="50%" valign="top">
-
-**03 / TRACKING**
-
-- Interactive bus tracking maps.
-- Estimated arrival time (ETA).
-- Socket.IO integration.
-- Simulated bus movement demonstration.
-
-**04 / SAFETY & ANALYTICS**
-
-- Incident reporting.
-- Emergency management.
-- Administrative monitoring.
-- Transport analytics.
-
-</td>
-</tr>
-</table>
-
-**SYSTEM SPECIFICATION**
-
-| Component | Implementation |
-|:--|:--|
-| Frontend | React.js, Vite |
-| Backend | Node.js, Express.js |
-| Database | MongoDB |
-| ODM | Mongoose |
-| API | REST, Axios |
-| Real-time | Socket.IO |
-| Maps | Leaflet |
-| Routing | React Router |
-| Testing | Thunder Client |
-| Tools | VS Code, MongoDB Compass |
-| Version Control | Git, GitHub |
-
-**APPLICATION FLOW**
-
-`React + Vite` → `REST API / Socket.IO` → `Express + Node.js` → `MongoDB`
-
-**IMPLEMENTATION NOTE**
-
-The current tracking demonstration uses simulated bus movement. The interface demonstrates the tracking and location-update workflow; it does not claim fully deployed real-world GPS tracking.
-
-<div align="center">
-
-[ EXPLORE SOURCE CODE ↗ ](https://github.com/theShaurya21/SmartTransit)
-
-</div>
+**Phone:** +91 7500512270
 
 ---
 
-# 02 / ENGINEERING TOOLKIT
+*"Great software starts with curiosity and grows through execution."*
 
-<sub>TECHNOLOGIES · LANGUAGES · FRAMEWORKS · TOOLS</sub>
-
-<table>
-<tr>
-<th width="27%">DOMAIN</th>
-<th>TECHNOLOGIES</th>
-</tr>
-<tr>
-<td><b>01 / Languages</b></td>
-<td>Java · JavaScript · Python</td>
-</tr>
-<tr>
-<td><b>02 / Frontend</b></td>
-<td>HTML · CSS · React.js</td>
-</tr>
-<tr>
-<td><b>03 / Backend</b></td>
-<td>Node.js · Express.js · Spring Boot</td>
-</tr>
-<tr>
-<td><b>04 / Databases</b></td>
-<td>MySQL · MongoDB</td>
-</tr>
-<tr>
-<td><b>05 / Java Ecosystem</b></td>
-<td>Spring Boot · Spring Data JPA · Hibernate</td>
-</tr>
-<tr>
-<td><b>06 / Tools</b></td>
-<td>VS Code · IntelliJ IDEA · Git · GitHub · Postman · Thunder Client</td>
-</tr>
-<tr>
-<td><b>07 / CS Fundamentals</b></td>
-<td>DSA · OOP · DBMS · Operating Systems</td>
-</tr>
-<tr>
-<td><b>08 / Interests</b></td>
-<td>Artificial Intelligence · Machine Learning · Data Science</td>
-</tr>
-</table>
-
----
-
-# 03 / THE ROADMAP
-
-<sub>ENGINEERING DIRECTION · CONTINUOUS DEVELOPMENT</sub>
-
-I want to become an engineer who understands not only how to write code, but also how to design and build complete software systems.
-
-<table>
-<tr>
-<td width="12%" align="center"><b>01</b></td>
-<td>
-
-**COMPUTER SCIENCE FUNDAMENTALS**
-
-Strengthen DSA, OOP, DBMS, Operating Systems and other core concepts.
-
-</td>
-</tr>
-<tr>
-<td align="center"><b>02</b></td>
-<td>
-
-**BACKEND ENGINEERING**
-
-Deepen my understanding of Java, Spring Boot, APIs, databases and server-side architecture.
-
-</td>
-</tr>
-<tr>
-<td align="center"><b>03</b></td>
-<td>
-
-**FULL-STACK DEVELOPMENT**
-
-Build complete applications with thoughtful interfaces and reliable backend systems.
-
-</td>
-</tr>
-<tr>
-<td align="center"><b>04</b></td>
-<td>
-
-**SYSTEM DESIGN**
-
-Understand scalability, software architecture, performance and distributed systems.
-
-</td>
-</tr>
-<tr>
-<td align="center"><b>05</b></td>
-<td>
-
-**EMERGING TECHNOLOGIES**
-
-Explore Artificial Intelligence, Machine Learning and Data Science.
-
-</td>
-</tr>
-<tr>
-<td align="center"><b>06</b></td>
-<td>
-
-**PROFESSIONAL GROWTH**
-
-Prepare for software engineering internships and opportunities to contribute to real-world products.
-
-</td>
-</tr>
-</table>
-
----
-
-# 04 / BEYOND ENGINEERING
-
-<sub>INTERESTS · INSPIRATION · PERSONALITY</sub>
-
-Chess for strategy. Cricket for competition. Movies for storytelling. Music for creativity.
-
-I enjoy activities that challenge the way I think and give me a different perspective.
-
----
-
-# 05 / CONNECTION POINT
-
-<sub>CONTACT · COLLABORATION · OPPORTUNITIES</sub>
-
-<div align="center">
-
-## LET'S BUILD SOMETHING MEANINGFUL.
-
-Open to interesting ideas, technical discussions, collaborations and software engineering opportunities.
-
-<br/>
-
-**SHAURYA PRATAP SINGH**
-
-[![Email](https://img.shields.io/badge/EMAIL-B74735?style=flat-square&logo=gmail&logoColor=white)](mailto:shaurya.pratap1323@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-242424?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaurya-pratap-singh-5a2153314)
-[![GitHub](https://img.shields.io/badge/GITHUB-242424?style=flat-square&logo=github&logoColor=white)](https://github.com/theShaurya21)
-
-**EMAIL**
-
-shaurya.pratap1323@gmail.com
-
-**PHONE**
-
-+91 7500512270
-
-**PORTFOLIO**
-
-YOUR_PORTFOLIO_URL
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F3EDE2&height=2" width="100%" />
-
-<br/>
-
-### "Think beyond the obvious. Build beyond the expected."
-
-<sub>DESIGNED WITH INTENTION · ENGINEERED WITH CURIOSITY</sub>
-
-**© 2026 — SHAURYA PRATAP SINGH**
+<sub>SHAURYA PRATAP SINGH · KEEP BUILDING.</sub>
 
 </div>
